@@ -39,7 +39,7 @@ El proyecto se divide en varias etapas:
 
 ## Resultados
 
-El análisis de datos de consumo de energía ha proporcionado información valiosa sobre los patrones de consumo y las tendencias a lo largo del tiempo. Los resultados se encuentran en el proyecto, junto con visualizaciones que ayudan a comunicar estos hallazgos de manera efectiva.
+El análisis de patrones de consumo de de agua potable ha proporcionado información valiosa sobre los patrones de consumo y las tendencias a lo largo del tiempo. Los resultados se encuentran en el proyecto, junto con visualizaciones que ayudan a comunicar estos hallazgos de manera efectiva.
 
 ## Uso del Código
 
