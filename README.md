@@ -1,4 +1,4 @@
-# WaterML_DL
+# WaterML&DL
 
 # Proyecto de Análisis de Patrones de Consumo de Agua Potable de Tanques de Suministro con ML y DL
 El objetivo de este proyecto es desarrollar una solución basada en datos que permita identificar patrones de consumo y generar modelos predictivos para estimar el consumo futuro de agua potable. Esta solución mejorará la gestión de los recursos hídricos y la planificación de la distribución de agua, lo que conducirá a una mayor eficiencia y sostenibilidad.
