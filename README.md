@@ -16,10 +16,11 @@ Antes de comenzar, asegúrate de tener instaladas las siguientes bibliotecas de 
 - Matplotlib
 - Seaborn
 - Scikit-Learn
+- Statsmodels
 
 Se utilizan las siguientes herramientas: 
 
-TensorFlow: TensorFlow es una biblioteca de código abierto desarrollada por Google que se utiliza para la creación y entrenamiento de modelos de aprendizaje profundo, incluyendo redes neuronales, como redes LSTM. También se utiliza para implementar técnicas como XGBoost.
+TensorFlow: Una biblioteca de código abierto desarrollada por Google que se utiliza para la creación y entrenamiento de modelos de aprendizaje profundo, incluyendo redes neuronales, como redes LSTM. También se utiliza para implementar técnicas como XGBoost.
 
 XGBoost: XGBoost (Extreme Gradient Boosting) es una biblioteca específica de aumento de gradiente utilizada para resolver problemas de regresión y clasificación. Proporciona una implementación eficiente y optimizada del aumento de gradiente y se utiliza para crear modelos predictivos.
 
