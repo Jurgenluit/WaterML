@@ -50,13 +50,13 @@ El proyecto se divide en varias etapas:
 
 6. **Correlación entre Variables**: Calculamos la matriz de correlación para analizar las relaciones entre las variables relacionadas con el consumo.
 
-7. **Modelado Predictivo (Opcional)**: Si es necesario, entrenamos modelos de predicción para predecir el consumo de agua potable proveniente de tanque de suministro.
+7. **Modelado Predictivo (Opcional)**: Se entrena los modelos de predicción para predecir el consumo de agua potable proveniente de tanque de suministro.
 
 8. **Documentación y Resultados**: Documentamos los resultados, conclusiones y hallazgos en este archivo README.md y, si es necesario, en otros informes.
 
 ## Resultados
 
-El análisis de patrones de consumo de de agua potable ha proporcionado información valiosa sobre los patrones de consumo y las tendencias a lo largo del tiempo. Los resultados se encuentran en el proyecto, junto con visualizaciones que ayudan a comunicar estos hallazgos de manera efectiva.
+El análisis de patrones de consumo de de agua potable ha proporcionado información valiosa sobre los patrones de consumo y las metricas de las modelaciones. Los resultados se encuentran en el proyecto, junto con visualizaciones que ayudan a comunicar estos hallazgos de manera efectiva.
 
 ## Uso del Código
 
