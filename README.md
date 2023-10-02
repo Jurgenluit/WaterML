@@ -17,6 +17,22 @@ Antes de comenzar, asegúrate de tener instaladas las siguientes bibliotecas de 
 - Seaborn
 - Scikit-Learn
 
+Se utilizan las siguientes herramientas: 
+
+TensorFlow: TensorFlow es una biblioteca de código abierto desarrollada por Google que se utiliza para la creación y entrenamiento de modelos de aprendizaje profundo, incluyendo redes neuronales, como redes LSTM. También se utiliza para implementar técnicas como XGBoost.
+
+XGBoost: XGBoost (Extreme Gradient Boosting) es una biblioteca específica de aumento de gradiente utilizada para resolver problemas de regresión y clasificación. Proporciona una implementación eficiente y optimizada del aumento de gradiente y se utiliza para crear modelos predictivos.
+
+statsmodels: Statsmodels es una biblioteca de Python que se utiliza para realizar análisis estadísticos y modelado, incluyendo técnicas de regresión, como ARIMA. Es útil para la modelización de series temporales y análisis de datos.
+
+scikit-learn: Scikit-learn es una biblioteca de aprendizaje automático de código abierto muy popular en Python. Proporciona herramientas para el entrenamiento y evaluación de modelos de regresión, clasificación y clustering, entre otros.
+
+Holt-Winters: Holt-Winters es un algoritmo de suavización exponencial utilizado para el pronóstico de series temporales. A menudo se implementa utilizando bibliotecas de Python como statsmodels.
+
+ARIMA: ARIMA (Autoregressive Integrated Moving Average) es un modelo estadístico utilizado para analizar y predecir series temporales. Se utiliza comúnmente para el pronóstico de series temporales y se puede implementar utilizando bibliotecas como statsmodels.
+
+Redes Neuronales LSTM: Las redes neuronales LSTM son una arquitectura de redes neuronales recurrentes utilizada para el procesamiento de secuencias de datos, incluyendo series temporales. Se pueden implementar utilizando bibliotecas de aprendizaje profundo como TensorFlow o PyTorch.
+
 ## Proceso de Análisis
 
 El proyecto se divide en varias etapas:
