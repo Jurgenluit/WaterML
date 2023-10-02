@@ -38,19 +38,19 @@ Redes Neuronales LSTM: Las redes neuronales LSTM son una arquitectura de redes n
 
 El proyecto se divide en varias etapas:
 
-1. **Carga de Datos**: Comenzamos cargando los datos de consumo de energía desde un archivo CSV.
+1. **Carga de Datos**: Comenzamos cargando los datos de consumo de agua potables y datos asociados desde un archivo CSV.
 
 2. **Exploración Inicial de Datos**: Realizamos una exploración inicial de los datos para comprender su estructura y distribución.
 
 3. **Estadísticas Descriptivas**: Calculamos estadísticas descriptivas, como promedios, medianas y desviaciones estándar, para comprender mejor los datos.
 
-4. **Visualización de Datos**: Utilizamos gráficos y visualizaciones para representar el consumo de energía a lo largo del tiempo y explorar tendencias.
+4. **Visualización de Datos**: Utilizamos gráficos y visualizaciones para representar el consumo de agua a lo largo del tiempo y explorar tendencias.
 
-5. **Análisis de Tendencias**: Aplicamos análisis de series temporales u otras técnicas para identificar tendencias y patrones en el consumo de energía.
+5. **Análisis de Tendencias**: Aplicamos análisis de series temporales u otras técnicas para identificar tendencias y patrones en el consumo de agua.
 
 6. **Correlación entre Variables**: Calculamos la matriz de correlación para analizar las relaciones entre las variables relacionadas con el consumo.
 
-7. **Modelado Predictivo (Opcional)**: Si es necesario, entrenamos modelos de predicción para predecir el consumo futuro de energía.
+7. **Modelado Predictivo (Opcional)**: Si es necesario, entrenamos modelos de predicción para predecir el consumo de agua potable proveniente de tanque de suministro.
 
 8. **Documentación y Resultados**: Documentamos los resultados, conclusiones y hallazgos en este archivo README.md y, si es necesario, en otros informes.
 
@@ -60,7 +60,7 @@ El análisis de patrones de consumo de de agua potable ha proporcionado informac
 
 ## Uso del Código
 
-Puedes utilizar el código proporcionado en este proyecto como punto de partida para tu propio análisis de datos de consumo de energía y aplicaciones relacionadas.
+Puedes utilizar el código proporcionado en este proyecto como punto de partida para tu propio análisis de datos de consumo agua potable.
 
 ## Contribuciones
 
